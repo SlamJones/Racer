@@ -1,0 +1,1 @@
+{"name": "Player 1", "cash": 4000, "reputation": 0, "car": {"max_speed": 120.0, "acceleration": 4.0, "braking": 5.0, "handling": 7.0, "max_speed_offroad": 50, "details": "An entry-level luxury vehicle.", "gear": 5, "brakes": 1, "tires": "Street", "camber": 5, "toe": 1, "value": 3500, "name": "Jones C180", "plate": "ORS8C3"}, "storage": {"cars": [], "items": {}}}
